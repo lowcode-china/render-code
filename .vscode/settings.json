@@ -1,0 +1,8 @@
+{
+    "python.analysis.logLevel": "Error",
+    "python.languageServer": "Pylance",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportUndefinedVariable": "none",
+        "reportGeneralTypeIssues": "none"
+    }
+}

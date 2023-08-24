@@ -1,0 +1,13 @@
+{
+  "type": "object",
+  "properties": {
+    "first_name": {
+      "type": "string",
+      "maxLength": 30
+    },
+    "last_name": {
+      "type": "string",
+      "maxLength": 30
+    }
+  }
+}
